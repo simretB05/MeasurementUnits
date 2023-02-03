@@ -1,0 +1,30 @@
+#id-1 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+#id-2 {
+  background-color: rgb(190, 46, 106);
+  width: 100in;
+  height: 100in;
+}
+#id-3 {
+  background-color: rgb(60, 255, 0);
+  width: 100cm;
+  height: 100cm;
+}
+#id-4 {
+  background-color: rgb(173, 119, 164);
+  width: 100mm;
+  height: 100mm;
+}
+#id-5 {
+  background-color: rgb(3, 41, 11);
+  width: 100pc;
+  height: 100pc;
+}
+#id-6 {
+  background-color: rgb(45, 70, 28);
+  width: 100pt;
+  height: 100pt;
+}
